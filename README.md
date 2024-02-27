@@ -25,6 +25,15 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+<div>
+    <a href="https://www.loom.com/share/55940ed9814247f5927be664f427e61f">
+     Loom Message - 26 February 2024 - Watch Video
+    </a>
+    <a href="https://www.loom.com/share/55940ed9814247f5927be664f427e61f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/55940ed9814247f5927be664f427e61f-with-play.gif">
+    </a>
+ </div>
+
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
